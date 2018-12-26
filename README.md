@@ -2,7 +2,7 @@
 A Minimalistic Shell For Unix Systems
 
 ## About AShell
-I've created AShell in order to understand by hand the creation process of a process in Unix systems.
+I've created AShell back in 2017 in order to understand by hand the creation process of a process in Unix systems.
 
 AShell currently using the "fork & exec" method, but in the near future (ihopeso) 
 i'll implement it with the "clone & exec" (doesnotreallyexists) method.
