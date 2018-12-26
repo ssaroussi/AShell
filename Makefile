@@ -3,6 +3,6 @@ CFLAGS=-Wall -pedantic
 OUT=ashell
 
 all:
-	$(CC) $(CFLAGS) *.cpp -o $(OUT)
+	$(CC) $(CFLAGS) *.c -o $(OUT)
 clean:
 	rm $(OUT)
